@@ -132,7 +132,7 @@ install.packages(c(
 ### 1. Clonar el repositorio
 
 ``` bash
-git clone https://github.com/[tu-usuario]/MS_Transcriptomics_TFM.git
+git clone https://github.com/robles0202/MS_Transcriptomics.git
 cd MS_Transcriptomics_TFM
 ```
 

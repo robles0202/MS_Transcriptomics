@@ -71,7 +71,7 @@ MS_Transcriptomics/
 
 Seis comparaciones principales: 1. RRMS vs Control 2. SPMS vs Control 3. PPMS vs Control 4. RRMS vs SPMS 5. RRMS vs PPMS 6. SPMS vs PPMS
 
-**Criterios de significancia:** - \|log2FC\| \> 0.2 - FDR \< 0.1 (corrección Benjamini-Hochberg)
+**Criterios de significancia:** - \|log2FC\| \> 0.3 - FDR \< 0.1 (corrección Benjamini-Hochberg)
 
 ### 4. Identificación de Genes Específicos
 

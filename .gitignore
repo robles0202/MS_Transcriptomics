@@ -1,0 +1,11 @@
+# R workspace files
+*.RData
+.RData
+.Rhistory
+
+# Large workspace files
+data/processed/*_workspace.RData
+
+# Keep only essential data
+!data/processed/deg_results.rds
+!data/processed/enrichment_results.rds

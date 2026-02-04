@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0044391","ribosomal subunit","4/36","186/19880",0.021505376344086,11.8757467144564,6.34720460347005,0.000345798563421039,0.044608014681314,0.0342158578542922,"RPL36AL/MRPL51/RPS27A/RPS25",4

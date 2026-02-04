@@ -1,0 +1,2 @@
+"category","subcategory","ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count"
+"Human Diseases","Infectious disease: viral","hsa05171","Coronavirus disease - COVID-19","6/17","238/9521",0.0252100840336134,14.1191300049432,8.66840232848673,0.00000225076439735515,0.000137296628238664,0.000113722832708471,"2197/6227/6170/11224/6218/6235",6
